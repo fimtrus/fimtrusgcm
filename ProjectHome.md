@@ -1,0 +1,1 @@
+Can send GCM on eclipse.
